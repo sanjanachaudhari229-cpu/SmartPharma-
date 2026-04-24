@@ -1,0 +1,25 @@
+# 🔐 Secrets
+.env
+
+# 🗄️ Database
+*.db
+*.sqlite3
+
+# 📄 Generated files
+*.pdf
+
+# 🧠 Python cache
+__pycache__/
+*.pyc
+
+# 🖼️ Images (optional if you don't want to upload)
+*.jpg
+*.png
+
+# 🧪 IDE files
+.vscode/
+.idea/
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
